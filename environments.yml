@@ -1,0 +1,11 @@
+name: blender2
+dependencies:
+  - pip
+  - pytorch::pytorch
+  - pytorch::torchvision
+  - selenium
+  - bs4
+  - pip:
+    - fairseq
+    - transformers
+    - parlai==1.5.1
