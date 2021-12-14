@@ -235,7 +235,7 @@
     "memory_doc_delimiter": ":",
     "download_path": null,
     "verbose": false,
-    "datapath": "/home/wuqy1203/Documents/ParlAI/data",
+    "datapath": "/home/cafe7/BlenderBot2/data",
     "display_examples": false,
     "display_prettify": false,
     "display_add_fields": "",
